@@ -1,4 +1,3 @@
-
 ---
 layout: project_template
 title: High Frequency Differential Probe
