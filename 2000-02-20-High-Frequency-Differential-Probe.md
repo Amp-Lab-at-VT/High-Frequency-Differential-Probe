@@ -19,7 +19,7 @@ show_sidebar: false
 Robert Perkel
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/High-Frequency-Differential-Probe"" >High-Frequency-Differential-Probe</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/High-Frequency-Differential-Probe" >High-Frequency-Differential-Probe</a>
 
 ## Photo
 
