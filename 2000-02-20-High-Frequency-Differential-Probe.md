@@ -3,8 +3,8 @@ layout: project_template
 title: High Frequency Differential Probe
 description: Evaluation of the ADI Differential Probe Reference Design for soldering certification.
 date: 2000-02-20 09:00:00
-hero_image: /web/img/High-Frequency-Differential-Probe/open_house.png
-image: /web/img/High-Frequency-Differential-Probe/open_house.png
+hero_image: /web/img/High-Frequency-Differential-Probe/Hero.png
+image: /web/img/High-Frequency-Differential-Probe/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
